@@ -43,6 +43,7 @@ Today I focus on **transforming complex data into clear insights and strategies*
 <a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/></a>
 <a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
 <a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/></a>
+<a href="https://spark.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg"" width="40" height="40"/></a>
 </p>
 
 ---
