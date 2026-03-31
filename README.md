@@ -1,5 +1,5 @@
 <p align="center">
-<img src="banner.png" alt="Bridging Tech & Marketing Banner"/>
+  <img src="banner.gif" alt="Bridging Tech & Marketing"/>
 </p>
 
 ## 👨‍💻 About Me
