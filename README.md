@@ -78,7 +78,10 @@ Today I focus on **transforming complex data into clear insights and strategies*
 
 <p align="left">
 <a href="https://linkedin.com/in/matteo-peroni-049951237" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+<a href="https://rpubs.com/perofficial_/" target="blank">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" height="30" width="40"/>
 </a>
 </p>
 
