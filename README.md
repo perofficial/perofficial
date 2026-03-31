@@ -2,11 +2,6 @@
 <img src="banner.png" alt="Bridging Tech & Marketing Banner"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Matteo Peroni</h1>
-<h3 align="center">Data Scientist | Digital Marketer</h3>
-
----
-
 ## 👨‍💻 About Me
 
 I'm a **Data Scientist** and **Digital Marketer** with a background that bridges **technology and digital marketing**.
