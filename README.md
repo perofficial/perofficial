@@ -21,6 +21,7 @@ Today I focus on **transforming complex data into clear insights and strategies*
 
 - API Development  
 - Model Deployment on AWS
+- Node.js
 
 ---
 
